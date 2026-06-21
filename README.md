@@ -126,7 +126,7 @@
 ```bash
 # Клонируем
 git clone <repo-url>
-cd c:\photo_to_prompt
+cd c:\
 
 # Создаём виртуальное окружение (Windows)
 python -m venv venv
